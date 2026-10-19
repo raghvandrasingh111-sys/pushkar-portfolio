@@ -1,0 +1,119 @@
+{
+  "duration": 44.6,
+  "segments": [
+    {
+      "id": "A",
+      "start": 0.0,
+      "source": "01",
+      "note": "Blast as the first frame"
+    },
+    {
+      "id": "B",
+      "start": 1.62,
+      "source": "01",
+      "note": "Red-lit close-up"
+    },
+    {
+      "id": "C",
+      "start": 2.78,
+      "source": "01",
+      "note": "Rapid-cut flurry from the source"
+    },
+    {
+      "id": "D",
+      "start": 3.85,
+      "source": "01",
+      "note": "Inferno, left to breathe"
+    },
+    {
+      "id": "E",
+      "start": 5.69,
+      "source": "01",
+      "note": "Scream, end of the action"
+    },
+    {
+      "id": "F",
+      "start": 7.09,
+      "source": "02",
+      "note": "Slow hold, cool grade"
+    },
+    {
+      "id": "G",
+      "start": 10.79,
+      "source": "02",
+      "note": "Teal night"
+    },
+    {
+      "id": "H",
+      "start": 13.75,
+      "source": "02",
+      "note": "Close-up"
+    },
+    {
+      "id": "I1",
+      "start": 15.15,
+      "source": "03",
+      "note": "Doorway opens"
+    },
+    {
+      "id": "I2",
+      "start": 18.32,
+      "source": "03",
+      "note": "The couple"
+    },
+    {
+      "id": "I3",
+      "start": 21.29,
+      "source": "03",
+      "note": "Sangeet scene"
+    },
+    {
+      "id": "J1",
+      "start": 23.69,
+      "source": "04",
+      "note": "Keyword titles"
+    },
+    {
+      "id": "J2",
+      "start": 27.25,
+      "source": "04",
+      "note": "Second location"
+    },
+    {
+      "id": "K1",
+      "start": 29.55,
+      "source": "05",
+      "note": "Kinetic type opening"
+    },
+    {
+      "id": "K2",
+      "start": 32.12,
+      "source": "05",
+      "note": "Counters and quality stamp"
+    },
+    {
+      "id": "L1",
+      "start": 34.32,
+      "source": "06",
+      "note": "Headline opening"
+    },
+    {
+      "id": "L2",
+      "start": 36.88,
+      "source": "06",
+      "note": "Group moment"
+    },
+    {
+      "id": "R",
+      "start": 38.93,
+      "source": "all",
+      "note": "Six-shot recap, one per project"
+    },
+    {
+      "id": "Z",
+      "start": 41.2,
+      "source": "all",
+      "note": "Name card"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url("bricolage-latin.woff2") format("woff2");
+  font-weight: 400 800; font-stretch: 75% 100%; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Figtree";
+  src: url("figtree-latin.woff2") format("woff2");
+  font-weight: 400 700; font-style: normal; font-display: swap;
+}
